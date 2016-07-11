@@ -77,22 +77,22 @@
 	<dependency>
 	  <groupId>com.caucho</groupId>
 	  <artifactId>quercus</artifactId>
-	  <version>3.1</version>
+	  <version>4.0.44</version>
     </dependency>
 	<dependency>
 	  <groupId>com.caucho</groupId>
 	  <artifactId>resin</artifactId>
-	  <version>3.1</version>
+	  <version>3.1.8</version>
     </dependency>
     <dependency>
 	  <groupId>com.caucho</groupId>
 	  <artifactId>resin-support</artifactId>
-	  <version>3.1</version>
+	  <version>3.1.8</version>
     </dependency>
     <dependency>
 	  <groupId>com.caucho</groupId>
 	  <artifactId>resin-util</artifactId>
-	  <version>3.1</version>
+	  <version>3.1.8</version>
 	</dependency>
   </dependencies>
 </project>
